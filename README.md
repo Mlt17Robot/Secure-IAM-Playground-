@@ -9,7 +9,8 @@ Il met en application les **principes de moindre privilège**, la **gestion des 
 
 ## 🧱 Architecture
 
-![Architecture](diagram/secure_iam_playground.png)
+![Architecture](secure-iam-playground/diagram/secure_iam_playground.png)
+
 
 ---
 
